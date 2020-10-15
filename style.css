@@ -1,16 +1,15 @@
 * {
     font-family: Calibri;
-    background-color: #36393E;
+    background-color: #2C2F33;
     color: #99AAB5;
     margin: 0;
     padding: 0;
-    
 }
 nav ul {
     list-style-type: none;
     width: 10%;
     height: 100%;
-    border-right: 1px solid #000000;
+    border-right: 1px solid #23272A;
     position: fixed;
     overflow: auto;
 }
