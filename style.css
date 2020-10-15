@@ -1,5 +1,30 @@
 * {
     background-color: #36393E;
     color: #99AAB5;
-    font-family:Calibri;
+    font-family: Calibri;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 10%;
+    background-color: #23272A;
+    color: *99AAB5;
+    position: fixed;
+    overflow: auto;
+    border: 1px solid #000000;
+}
+nav ul li {
+    text-align: center;
+    border-bottom: 1px solid #000000;
+}
+nav ul li:last-child {
+    border-bottom: none;
+}
+nav ul li a {
+    display: block;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: #FFFFFF;
 }
