@@ -28,7 +28,8 @@ nav ul li a:hover {
     color: #FFFFFF;
 }
 body {
-    margin-left:10%;
     margin: 0;
+    padding: 1px 16px;
+    margin-left:10%;
     background-color: #36393E;
 }
