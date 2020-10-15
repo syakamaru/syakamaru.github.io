@@ -1,5 +1,6 @@
 * {
     font-family: Calibri;
+    background-color: #36393E;
     color: #99AAB5;
 }
 nav ul {
@@ -27,9 +28,7 @@ nav ul li a {
 nav ul li a:hover {
     color: #FFFFFF;
 }
-body {
-    margin: 0;
+div.main {
+    margin-left: 10%;
     padding: 1px 16px;
-    margin-left:10%;
-    background-color: #36393E;
 }
